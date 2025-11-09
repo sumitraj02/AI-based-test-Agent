@@ -9,6 +9,8 @@ This repository contains an AI Testing Agent that interacts with an LLM (via [Op
 
 By default, the AI agent assumes your API has some specific REST routes (e.g., /api/endpoint), but you can customize everything using prompts.
 
+
+Here is my project url deployed on aws ec2 (http://13.200.229.242:8000)
 ---
 
 ## Contents
@@ -166,4 +168,5 @@ With these approaches, you can achieve stable, correct tests that match your rea
 
 ---
 
-© 2023 AI Testing Agent. Released under an open-source license. Feel free to adapt as needed.
+
+© 2025 AI-based-testing-agent. Released under an open-source license. Feel free to adapt as needed.
