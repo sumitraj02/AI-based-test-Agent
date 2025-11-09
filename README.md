@@ -11,6 +11,8 @@ By default, the AI agent assumes your API has some specific REST routes (e.g., /
 
 
 Here is my project url deployed on aws ec2 (http://13.200.229.242:8000)
+
+
 See my web UI (http://ai-testing-agent-ui.s3-website.ap-south-1.amazonaws.com/)
 ---
 
@@ -171,4 +173,5 @@ With these approaches, you can achieve stable, correct tests that match your rea
 
 
 © 2025 AI-based-testing-agent. Released under an open-source license. Feel free to adapt as needed.
+
 
